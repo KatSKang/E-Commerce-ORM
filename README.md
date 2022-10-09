@@ -4,7 +4,7 @@
 
   ## Description
 
-  This project focused on the ORM backend process for a mock e-commerce website. Using tools suchs as MySQL, Sequelize and Insomnia to manage the database and testing of the API routes, respectively.
+  This project focused on the ORM backend process for a mock e-commerce website. Using tools such as MySQL, Sequelize and Insomnia to manage the database and testing of the API routes, respectively.
 
   ## Table of Contents
   
