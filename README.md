@@ -30,6 +30,8 @@
   
   Run `npm run start` to start the server.
   
+  Copy and paste the routes URL into Insomnia or Postman to test.
+  
   
   Click [here](https://youtu.be/AVJC66WbIu0) for the video walkthough. 
   
